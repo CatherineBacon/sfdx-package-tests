@@ -5,11 +5,11 @@
       "default": true
     },
 	{
-            "path": "dreamhouse-test",
-            "default": false,
-            "package": "dreamhouse-test",
-            "versionName": "version 1.0",
-            "versionNumber": "0.1.0.NEXT"
+        "path": "force-app/dreamhouse-test",
+        "default": false,
+        "package": "dreamhouse-test",
+        "versionName": "version 1.0",
+        "versionNumber": "0.1.0.NEXT"
         }
   ],
   "namespace": "",
