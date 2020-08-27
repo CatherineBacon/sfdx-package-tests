@@ -1,0 +1,23 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    },
+	{
+            "path": "dreamhouse-test",
+            "default": false,
+            "package": "dreamhouse-test",
+            "versionName": "version 1.0",
+            "versionNumber": "0.1.0.NEXT"
+        }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "49.0",
+
+    "packageAliases": {
+        "dreamhouse-test": "0Ho4J000000blrISAQ",
+        "dreamhouse-test@0.1.0-1": "04t4J000001pNIZQA2"
+    }
+}
